@@ -76,7 +76,7 @@ You can run a build manually with `npm run build`. This will write to the `dist/
 
 ### Issues, Contributing, etc.
 
-I would love to see other people's work on gui.css, if anyone else if up for creating a theme for another OS using this framework. Also new components and bugs/issues are also welcome! Feel free to contribute in whatever way you like!
+I would love to see other people's work on gui.css, if anyone else is up for creating a theme for another OS using this framework. Also new components and bugs/issues are also welcome! Feel free to contribute in whatever way you like!
 
 Also please refer to [the GitHub issues page](https://github.com/jdan/98.css/issues) for [jdan's](https://twitter.com/jdan) 98.css.
 
